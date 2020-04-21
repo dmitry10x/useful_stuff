@@ -1,0 +1,1 @@
+pyinstaller -F -w -i( to set up icon on your .exe) main.py
